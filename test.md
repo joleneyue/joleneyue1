@@ -1,1 +1,1 @@
-my fav color is: blue
+my fav animal: dog
